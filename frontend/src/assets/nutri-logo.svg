@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="32" cy="32" r="32" fill="#E6F4EA"/>
+  <g>
+    <!-- Chat bubble -->
+    <ellipse cx="32" cy="32" rx="18" ry="14" fill="#4FC3F7"/>
+    <path d="M32 46c-7 0-13-4-13-9h26c0 5-6 9-13 9z" fill="#4FC3F7"/>
+    <!-- Bubble tail -->
+    <path d="M32 46c-2 3-5 6-8 7 2-2 2-5 2-7" fill="#4FC3F7"/>
+    <!-- Leaf overlay -->
+    <path d="M44 22c-6 0-10 6-10 12 0 3 1 6 3 8 6-1 13-7 13-13 0-4-3-7-6-7z" fill="#66BB6A"/>
+    <path d="M44 22c-3 0-6 3-6 6 0 2 1 4 2 5 4-1 8-4 8-7 0-2-2-4-4-4z" fill="#388E3C"/>
+  </g>
+  <!-- NutriChat text (optional, can be removed for favicon) -->
+  <!-- <text x="32" y="60" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" fill="#388E3C">NutriChat</text> -->
+</svg> 
